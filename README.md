@@ -50,7 +50,7 @@ A production-ready avatar widget that displays a profile image when available an
 | `textColor` | `Color` | No | — |
 | `backgroundColor` | `Color` | No | — |
 
-5. Paste the code from `custom_avatar_widget.dart`
+5. Paste the code from custom_avatar.dart
 6. Compile & use! 🎉
 
 ## 💡 Usage Examples
